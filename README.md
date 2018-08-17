@@ -1,6 +1,5 @@
-###### Front-End Develop SCHOOL
-
-# 프론트엔드 개발 SCHOOL
+###### Front-End 
+# 프론트엔드
 
 ![open-img](Lecture/Assets/open-img.png)
 
